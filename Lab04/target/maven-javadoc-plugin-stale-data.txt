@@ -1,0 +1,55 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/moham/.m2/repository/org/openjfx/javafx-controls/23/javafx-controls-23.jar;C:/Users/moham/.m2/repository/org/openjfx/javafx-controls/23/javafx-controls-23-win.jar;C:/Users/moham/.m2/repository/org/openjfx/javafx-graphics/23/javafx-graphics-23.jar;C:/Users/moham/.m2/repository/org/openjfx/javafx-graphics/23/javafx-graphics-23-win.jar;C:/Users/moham/.m2/repository/org/openjfx/javafx-base/23/javafx-base-23.jar;C:/Users/moham/.m2/repository/org/openjfx/javafx-base/23/javafx-base-23-win.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+21
+-sourcepath
+'C:/Users/moham/Downloads/Lab04/Lab04/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026 <a href="https://github.com/Mohammad-Aldemaiji">SE411-Tech-Company</a>. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/moham/Downloads/Lab04/Lab04/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Lab04 Maven Intro 0.0.1-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Lab04 Maven Intro 0.0.1-SNAPSHOT API'
+edu.psu.se411.lab04
+C:\Users\moham\.m2\repository\org\openjfx\javafx-controls\23\javafx-controls-23.jar = 1792524816195
+C:\Users\moham\.m2\repository\org\openjfx\javafx-controls\23\javafx-controls-23-win.jar = 1792524817557
+C:\Users\moham\.m2\repository\org\openjfx\javafx-graphics\23\javafx-graphics-23.jar = 1792524816346
+C:\Users\moham\.m2\repository\org\openjfx\javafx-graphics\23\javafx-graphics-23-win.jar = 1792524817605
+C:\Users\moham\.m2\repository\org\openjfx\javafx-base\23\javafx-base-23.jar = 1792524816342
+C:\Users\moham\.m2\repository\org\openjfx\javafx-base\23\javafx-base-23-win.jar = 1792524817137
+C:\Users\moham\Downloads\Lab04\Lab04\src\main\java = 1792525352035
+C:\Users\moham\Downloads\Lab04\Lab04\target\site\apidocs\allclasses-index.html = 1792525419499
+C:\Users\moham\Downloads\Lab04\Lab04\target\site\apidocs\allpackages-index.html = 1792525419499
+C:\Users\moham\Downloads\Lab04\Lab04\target\site\apidocs\copy.svg = 1792525419582
+C:\Users\moham\Downloads\Lab04\Lab04\target\site\apidocs\element-list = 1792525419435
+C:\Users\moham\Downloads\Lab04\Lab04\target\site\apidocs\help-doc.html = 1792525419546
+C:\Users\moham\Downloads\Lab04\Lab04\target\site\apidocs\index-all.html = 1792525419530
+C:\Users\moham\Downloads\Lab04\Lab04\target\site\apidocs\index.html = 1792525419546
+C:\Users\moham\Downloads\Lab04\Lab04\target\site\apidocs\link.svg = 1792525419582
+C:\Users\moham\Downloads\Lab04\Lab04\target\site\apidocs\member-search-index.js = 1792525419514
+C:\Users\moham\Downloads\Lab04\Lab04\target\site\apidocs\module-search-index.js = 1792525419499
+C:\Users\moham\Downloads\Lab04\Lab04\target\site\apidocs\overview-tree.html = 1792525419483
+C:\Users\moham\Downloads\Lab04\Lab04\target\site\apidocs\package-search-index.js = 1792525419514
+C:\Users\moham\Downloads\Lab04\Lab04\target\site\apidocs\script.js = 1792525419562
+C:\Users\moham\Downloads\Lab04\Lab04\target\site\apidocs\search-page.js = 1792525419641
+C:\Users\moham\Downloads\Lab04\Lab04\target\site\apidocs\search.html = 1792525419530
+C:\Users\moham\Downloads\Lab04\Lab04\target\site\apidocs\search.js = 1792525419593
+C:\Users\moham\Downloads\Lab04\Lab04\target\site\apidocs\stylesheet.css = 1792525419559
+C:\Users\moham\Downloads\Lab04\Lab04\target\site\apidocs\tag-search-index.js = 1792525419525
+C:\Users\moham\Downloads\Lab04\Lab04\target\site\apidocs\type-search-index.js = 1792525419514
