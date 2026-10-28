@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS course (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    code VARCHAR(20) NOT NULL,
+    name VARCHAR(100) NOT NULL,
+    description VARCHAR(255),
+    credits INT
+);
